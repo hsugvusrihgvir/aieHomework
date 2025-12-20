@@ -1,0 +1,21 @@
+order_id,store,category,product_name,promo_code,currency,items_count,delivery_fee,discount_amount,refund_amount,is_returned,order_year,payment_method,courier_notes
+5001,Haifa Central,Grocery,Milk 1L,PROMO_A01,ILS,1,0,0,0,0,2025,Card,
+5002,Tel Aviv Dizengoff,Electronics,USB-C Cable,PROMO_A02,ILS,2,0,0,0,0,2025,Card,
+5003,Jerusalem Mall,Books,Notebook A5,PROMO_A03,ILS,1,0,0,0,0,2025,Cash,
+5004,Haifa Central,Home,Detergent,PROMO_A04,ILS,3,0,0,0,0,2025,Card,
+5005,Eilat Promenade,Grocery,Bread,PROMO_A05,ILS,1,0,0,0,0,2025,Card,
+5006,Beer Sheva Center,Electronics,Power Bank,PROMO_A06,ILS,1,0,0,0,0,2025,Card,
+5007,Tel Aviv Dizengoff,Books,Pen Set,PROMO_A07,ILS,2,0,0,0,0,2025,Cash,
+5008,Jerusalem Mall,Grocery,Apples,PROMO_A08,ILS,5,0,0,0,0,2025,Card,
+5009,Haifa Central,Home,Sponges,PROMO_A09,ILS,2,0,0,0,0,2025,Card,
+5010,Eilat Promenade,Electronics,Headphones,PROMO_A10,ILS,1,0,0,0,0,2025,Card,
+5011,Beer Sheva Center,Grocery,Water 6-pack,PROMO_A11,ILS,1,0,0,0,0,2025,Card,
+5012,Tel Aviv Dizengoff,Home,Light Bulb,PROMO_A12,ILS,4,0,0,0,0,2025,Cash,
+5013,Jerusalem Mall,Books,Novel,PROMO_A13,ILS,1,0,0,0,0,2025,Card,
+5014,Haifa Central,Grocery,Coffee,PROMO_A14,ILS,1,0,0,0,0,2025,Card,
+5015,Eilat Promenade,Home,Towel,PROMO_A15,ILS,2,0,0,0,0,2025,Card,
+5016,Beer Sheva Center,Electronics,Mouse,PROMO_A16,ILS,1,0,0,0,0,2025,Card,
+5017,Tel Aviv Dizengoff,Grocery,Chocolate,PROMO_A17,ILS,3,0,0,0,0,2025,Cash,
+5018,Jerusalem Mall,Home,Trash Bags,PROMO_A18,ILS,2,0,0,0,0,2025,Card,
+5019,Haifa Central,Books,Sketchbook,PROMO_A19,ILS,1,0,0,15.0,1,2025,Card,Box damaged
+5005,Eilat Promenade,Grocery,Bread,PROMO_A20,ILS,1,0,0,0,0,2025,Card,Duplicate id example
